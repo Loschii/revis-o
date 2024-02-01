@@ -1,0 +1,19 @@
+body{
+    background-color:darkgray;
+}
+
+h1{
+    color: #000;
+    text-align:center
+}
+
+p{
+    color: black;
+    font-family: cursive;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
